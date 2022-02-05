@@ -1,4 +1,4 @@
-# hy-vue-temp
+# hy-vue-temp coderwhy老师的node.js 课程的 vue template模板。借鉴学习一下。
 
 ## Project setup
 ```
